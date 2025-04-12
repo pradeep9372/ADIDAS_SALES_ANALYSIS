@@ -44,10 +44,6 @@ The Power BI report file `Adidas_Sales_Analysis.pbix` explores the sales trends 
 - How does profit vary by state and channel?
 - What seasonal patterns exist in sales?
 
-## 📬 Contact
-
-For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/pradeep9372/Adidas-Sales-Analysis/issues) or connect with me on [LinkedIn](www.linkedin.com/in/pradeep-gupta-2b70b4331).
-
 ---
 
 > 🚀 Whether you're a business analyst, data enthusiast, or aspiring data professional, this dashboard provides a strong starting point for exploring real-world business data with Power BI.

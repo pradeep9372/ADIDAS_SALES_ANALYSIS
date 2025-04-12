@@ -46,7 +46,7 @@ The Power BI report file `Adidas_Sales_Analysis.pbix` explores the sales trends 
 
 ## 📬 Contact
 
-For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/yourusername/Adidas-Sales-Analysis/issues) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
+For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/pradeep9372/Adidas-Sales-Analysis/issues) or connect with me on [LinkedIn](www.linkedin.com/in/pradeep-gupta-2b70b4331).
 
 ---
 
